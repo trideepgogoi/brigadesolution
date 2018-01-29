@@ -5,7 +5,7 @@ Manages dependencies
 Author: Trideep Gogoi
 
 ## Prerequisites
-THis application runs on Node.js
+This application runs on Node.js
 
 ## Usage
 
